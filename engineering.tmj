@@ -1992,7 +1992,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-genius-hour-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-cobra-connections-1-10"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2009,7 +2009,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-genius-hour-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-cobra-connections-11-20"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2043,7 +2043,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/fitnes_center.json"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-fitness-center"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2077,7 +2077,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-human-service"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-human-services"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3516,7 +3516,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Choice Charter School"
+         "value":"Choice Charter School Engineering"
         }, 
         {
          "name":"script",
