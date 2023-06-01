@@ -1208,7 +1208,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"zone",
                  "height":570.107897225263,
                  "id":15,
                  "name":"cluster3.1",
@@ -1224,13 +1223,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":596.243000352348,
                  "x":574.524743230626,
                  "y":930.31040342833
                 }, 
                 {
-                 "class":"zone",
                  "height":570.285595028624,
                  "id":16,
                  "name":"cluster3.2",
@@ -1246,13 +1245,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":1199.48748175705,
                  "x":1180.74170737938,
                  "y":930.953606
                 }, 
                 {
-                 "class":"zone",
                  "height":575.444265736441,
                  "id":17,
                  "name":"cluster3.3",
@@ -1268,13 +1267,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":613.257011000137,
                  "x":2381.24112537039,
                  "y":927.3083019573
                 }, 
                 {
-                 "class":"zone",
                  "height":492.562359326098,
                  "id":18,
                  "name":"cluster3.4",
@@ -1290,13 +1289,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":583.566760037348,
                  "x":574.524743230626,
                  "y":1918.22008698576
                 }, 
                 {
-                 "class":"zone",
                  "height":490.623122380996,
                  "id":19,
                  "name":"cluster3.5",
@@ -1312,13 +1311,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":592.242300702929,
                  "x":1179.43067037683,
                  "y":1917.82505689071
                 }, 
                 {
-                 "class":"zone",
                  "height":483.845827561809,
                  "id":20,
                  "name":"cluster3.6",
@@ -1334,13 +1333,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":584.902428899109,
                  "x":1787.00793524655,
                  "y":1915.2652835493
                 }, 
                 {
-                 "class":"zone",
                  "height":490.196730417342,
                  "id":21,
                  "name":"cluster3.7",
@@ -1356,13 +1355,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"zone",
                  "visible":true,
                  "width":590.906631841169,
                  "x":2387.91316274333,
                  "y":1913.58291477407
                 }, 
                 {
-                 "class":"area",
                  "height":85.9176892639848,
                  "id":196,
                  "name":"agriculture1",
@@ -1383,13 +1382,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":144.911128721839,
                  "x":1456.80606815352,
                  "y":1504.9239274008
                 }, 
                 {
-                 "class":"area",
                  "height":61.2790361287951,
                  "id":197,
                  "name":"agriculture2",
@@ -1410,13 +1409,13 @@
                          "value":"Press SPACE or touch here to open Office Hours"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":126.797237631609,
                  "x":2689.68278048228,
                  "y":1502.39174390064
                 }, 
                 {
-                 "class":"area",
                  "height":222.760479991597,
                  "id":853,
                  "name":"buzz_1",
@@ -1437,13 +1436,13 @@
                          "value":"Choice Charter Buzz"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192.18,
                  "x":3008.31221146871,
                  "y":2175.19426021154
                 }, 
                 {
-                 "class":"area",
                  "height":62.6954767209654,
                  "id":881,
                  "name":"exit-to-admin",
@@ -1454,13 +1453,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.5634455976547,
                  "x":3055.49278919954,
                  "y":2446.56481393385
                 }, 
                 {
-                 "class":"area",
                  "height":60.6166847296381,
                  "id":883,
                  "name":"exit-to-eng",
@@ -1471,13 +1470,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-engineering"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.5784321825198,
                  "x":2898.15818196446,
                  "y":2447.65378018487
                 }, 
                 {
-                 "class":"area",
                  "height":63.0407660585438,
                  "id":884,
                  "name":"exit-to-gh-1",
@@ -1488,13 +1487,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-cobra-connections-1-10"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":66.7204685047727,
                  "x":4399.35096872045,
                  "y":2796.65562053733
                 }, 
                 {
-                 "class":"area",
                  "height":63.7333823095346,
                  "id":885,
                  "name":"exit-to-gh-2",
@@ -1505,13 +1504,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-cobra-connections-11-20"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.8546261426936,
                  "x":4401.24836881896,
                  "y":2603.4625920054
                 }, 
                 {
-                 "class":"area",
                  "height":62.51436585911,
                  "id":886,
                  "name":"exit-to-pl",
@@ -1522,13 +1521,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-project-labs"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.0885750670604,
                  "x":4402.9003649926,
                  "y":2414.51557461429
                 }, 
                 {
-                 "class":"area",
                  "height":60.4236667045109,
                  "id":887,
                  "name":"exit-to-fc",
@@ -1539,13 +1538,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-fitness-center"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.2576899243181,
                  "x":4401.3886266834,
                  "y":2222.45251659235
                 }, 
                 {
-                 "class":"area",
                  "height":63.4979923428891,
                  "id":888,
                  "name":"map",
@@ -1556,13 +1555,13 @@
                          "value":"https:\/\/www.thinglink.com\/card\/1649562139104378881"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.180782519376,
                  "x":3839.76094873471,
                  "y":2433.0002801382
                 }, 
                 {
-                 "class":"area",
                  "height":62.2592,
                  "id":895,
                  "name":"exit-to-hms",
@@ -1573,13 +1572,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-human-services"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.5789,
                  "x":2735.59456643776,
                  "y":2447.51212163945
                 }, 
                 {
-                 "class":"area",
                  "height":222.76,
                  "id":896,
                  "name":"buzz_2",
@@ -1600,13 +1599,13 @@
                          "value":"Choice Charter Buzz"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192.18,
                  "x":3551.63607919336,
                  "y":2176.1948345762
                 }, 
                 {
-                 "class":"area",
                  "height":254.331,
                  "id":897,
                  "name":"zooniverse",
@@ -1627,13 +1626,13 @@
                          "value":"Press SPACE to explore Zooniverse"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":317.637,
                  "x":3428.37202744887,
                  "y":1568.20586706136
                 }, 
                 {
-                 "class":"area",
                  "height":191.657,
                  "id":898,
                  "name":"livecam",
@@ -1654,13 +1653,13 @@
                          "value":"Watch Wisconsin Pasture Live Cam"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":290.255,
                  "x":3455.15186212315,
                  "y":1919.07081323478
                 }, 
                 {
-                 "class":"area",
                  "height":142.278,
                  "id":899,
                  "name":"intenships",
@@ -1671,13 +1670,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQaUFFXbsZ9HdJ3ElMq2BP9P5LT7TGanGrSnW3-P4zJhkQyJVaF73s8bL-R7GeXw88MfPevw4san8P8\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":108.599,
                  "x":3368.65590762902,
                  "y":2755.15435826477
                 }, 
                 {
-                 "class":"area",
                  "height":145.027,
                  "id":900,
                  "name":"info",
@@ -1688,13 +1687,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQX_ohXOq57oF0E7uv0kzXLQsr4RU_CdwCWBl4VnLZe2Dm22-hkZC87_Q4J0lGSHwxDyOWyTu0X8GFN\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":74.9192,
                  "x":3275.17590762902,
                  "y":2751.03435826477
                 }, 
                 {
-                 "class":"area",
                  "height":187.964,
                  "id":901,
                  "name":"ClassLink",
@@ -1715,6 +1714,7 @@
                          "value":"ClassLink"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":155.908,
                  "x":3010.71642092202,
@@ -2842,7 +2842,7 @@
          "value":"The Choice Charter School Virtual Campus Map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -32778,7 +32778,7 @@
         {
          "columns":27,
          "firstgid":73365,
-         "image":"tilesets\/whiteboards.png",
+         "image":"tilesets\/white-boards.png",
          "imageheight":640,
          "imagewidth":865,
          "margin":0,
@@ -67329,6 +67329,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":149
 }
